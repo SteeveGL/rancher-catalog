@@ -1,8 +1,7 @@
 .catalog:
   name: Template Stack
   version: 0.1
-  description: |
-    Template Stack description.
+  description: Template Stack description.
   uuid: temp-stack-0
   questions:
     - variable: "Variable-string"
