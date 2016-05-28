@@ -1,0 +1,14 @@
+msm:
+  ports:
+    - "25565:25565"
+
+  environment:
+    EULA: TRUE
+
+  image: steevegldev/msm
+
+  container_name: msm
+
+  tty: true
+  stdin_open: true
+  restart: always

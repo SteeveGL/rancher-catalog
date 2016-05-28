@@ -1,4 +1,7 @@
-name: Tamplate Stack  
-description: Tamplate Stack description.
+name: Minecraft Server Manager
+description: A single init script which makes running multiple Minecraft/Bukkit servers easier for us admins.
+maintainer: Steeve Gaudreault-Lambert <steevegl.dev@gmail.com>
+URL:
 version: 0.1
-category: "N/A"
+category: "Entertainment"
+license: 
